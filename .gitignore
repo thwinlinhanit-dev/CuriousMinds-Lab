@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.npm-cache/
+data/*.db*
+data/*.log
+data/link-report.json
+drizzle/
+.env*.local
+tsconfig.tsbuildinfo
+nul
+.DS_Store
+*.log
